@@ -1,5 +1,11 @@
+# Game Hub
+
 Game Hub is a frontend project using React + Typescript.
 It's a mini version of the Rawg.io, a popular video game discovery platform.
+
+Developer: <a href='https://www.linkedin.com/in/omurilolima/' target='_blank'>Murilo Lima</a>
+
+Visit the [live site](https://game-6mi0ii5ub-murilo-limas-projects.vercel.app/)
 
 ![Game Hub: React + Typescript](/src/assets/documentation/gamehub.png)
 
