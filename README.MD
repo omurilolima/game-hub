@@ -1,4 +1,4 @@
-Game Hub is my first project using React + Typescript.
+Game Hub is a frontend project using React + Typescript.
 It's a mini version of the Rawg.io, a popular video game discovery platform.
 
 ![Game Hub: React + Typescript](/src/assets/documentation/gamehub.png)
